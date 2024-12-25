@@ -1,0 +1,14 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.Tiny" parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <!-- Theme without ActionBar -->
+    <style name="Theme.Tiny.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

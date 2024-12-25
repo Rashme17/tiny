@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tiny</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="child_name">Child\'s Name</string>
+    <string name="age">Age (months)</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="height">Height (cm)</string>
+    <string name="save">Save</string>
+
+    <!-- Add these new strings -->
+    <string name="login_activity_title">Login</string>
+    <string name="signup_activity_title">Sign Up</string>
+    <string name="main_dashboard_activity_title">Dashboard</string>
+    <string name="diet">Diet</string>
+    <string name="food">Food</string>
+    <string name="growth">Growth</string>
+</resources>
